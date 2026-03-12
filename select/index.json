@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "本当は泣きそうです。",
+  "base_artist": "NEE",
+  "createdAt": "2026-03-12T23:30:40.918481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本当は泣きそうです。",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_本当は泣きそうです。_NEE.txt"
+    }
+  ]
+}
